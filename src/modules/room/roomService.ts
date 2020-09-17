@@ -56,7 +56,7 @@ const roomService: RoomService = {
   async getRoom (slug) {
     const blackCard = await cardService.generateCards('black', 1)
     const whiteCards = await cardService.generateCards('white', 10)
-    const blackCardId = blackCard[0]._id
+    const blackCardId = blackCard.pop()?._id
     const collectionCardIds = whiteCards.map(card => card._id)
 
     return {
