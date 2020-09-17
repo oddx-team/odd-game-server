@@ -1,0 +1,50 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "ES6",
+    "strict": true,
+    "noImplicitAny": true,
+    "moduleResolution": "node",
+    "sourceMap": false,
+    "outDir": "dist",
+    "baseUrl": ".",
+    "paths": {
+      "*": [
+        "node_modules/*",
+        "src/types/*"
+      ],
+      "#/*": [
+        "./src/*",
+        "./dist/*"
+      ],
+      "utils/*": [
+        "./src/utils/*",
+        "./dist/utils/*"
+      ],
+      "middlewares/*": [
+        "./src/middlewares/*",
+        "./dist/middlewares/*"
+      ],
+      "modules/*": [
+        "./src/modules/*",
+        "./dist/modules/*"
+      ],
+      "persistence/*": [
+        "./src/persistence/*",
+        "./dist/persistence/*"
+      ]
+    },
+    "forceConsistentCasingInFileNames": true,
+    "inlineSourceMap": false,
+    "resolveJsonModule": true
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}

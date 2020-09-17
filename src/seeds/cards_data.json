@@ -1,0 +1,992 @@
+[
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Being marginalized."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Auschwitz."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "For my next trick, I will pull ____ out of ____.",
+    "gaps": 2
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "BATMAN!"
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Dude, <i>do not</i> go in that bathroom. There's ____ in there.",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Punching a congressman in the face."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "J.D. Power and his associates."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Dick fingers."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "____. Betcha can't have just one!",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Some god damn peace and quiet."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Preteens."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Getting so angry that you pop a boner."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "____: kid-tested, mother-approved.",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "My Uber driver, Pavel."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Seven dead and three in critical condition."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "I drink to forget ____.",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "A mating display."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "My relationship status."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Ruth Bader Ginsburg brutally gaveling your penis."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "What gives me uncontrollable gas?",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "After eight years in the White House, how is Obama finally letting loose?",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "When Pharaoh remained unmoved, Moses called down a Plague of ____.",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "What's a girl's best friend?",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Dear Abby, I'm having some trouble with ____ and would like your advice.",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "I get by with a little help from ____.",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Facebook."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Not reciprocating oral sex."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Being able to talk to elephants."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "I never truly understood ____ until I encountered ____.",
+    "gaps": 2
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Darth Vader."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "And the Academy Award for ____ goes to ____.",
+    "gaps": 2
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Itchy pussy."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "My genitals."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "TSA guidelines now prohibit ____ on airplanes.",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "What's that smell?",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Expecting a burp and vomiting on the floor."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Smegma."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Here is the church Here is the steeple Open the doors And there is ____.",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Anal beads."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Kids, I don't need drugs to get high. I'm high on ____.",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "IF you like ____, YOU MIGHT BE A REDNECK.",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "A time travel paradox."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "____. High five, bro.",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Seppuku."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Little boy penises."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Why am I sticky?",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Used panties."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "What makes life worth living?",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Today on <i>Maury</i> : \"Help! My son is ____!\"",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "But before I kill you, Mr. Bond, I must show you ____.",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Men's Wearhouse. You're gonna like ____. I guarantee it.",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "What's that sound?",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Land mines."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "As the mom of five rambunctious boys, I'm no stranger to ____.",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Centaurs."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "The Three-Fifths Compromise."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "A windmill full of corpses."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "The rhythms of Africa."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "The homosexual agenda."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "An Oedipus complex."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Why do I hurt all over?",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Daniel Radcliffe's delicious asshole."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "An M. Night Shyamalan plot twist."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Fox News."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "A stray pube."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Well if you'll excuse me, gentlemen, I have a date with ____.",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "What made my first kiss so awkward?",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "What's my secret power?",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "How did I lose my virginity?",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Hot people."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Hey Reddit! I'm ____. Ask me anything.",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "The Chevy Tahoe. With the power and space to take ____ everywhere you go.",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "A micropenis."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "I'm sorry, Professor, but I couldn't complete my homework because of ____.",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Click here for ____!!!",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "The Red Hot Chili Peppers."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Being a woman."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Daddy, why is mommy crying?",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Being rich."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Seeing my father cry."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Shapeshifters."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "What ended my last relationship?",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "A fart so powerful that it wakes the giants from their thousand-year slumber."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Dwayne \"The Rock\" Johnson."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "A bleached asshole."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Worshipping that pussy."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Step 1: ____. Step 2: ____. Step 3: Profit.",
+    "gaps": 2
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "A romantic, candlelit dinner would be incomplete without ____.",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Nipple blades."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Arby's: We Have ____.",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "World peace."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "What's Teach For America using to inspire inner city students to succeed?",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "____. It's a trap!",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "What never fails to liven up the party?",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "More elephant cock than I bargained for."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Lifetime&reg; presents \"____: the Story of ____.\"",
+    "gaps": 2
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Old Macdonald had ____. E-I-E-I-O.",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "The class field trip was completely ruined by ____.",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Throwing grapes at a man until he loses touch with reality."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Breaking out into song and dance."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Going an entire day without masturbating."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "What are my parents hiding from me?",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Mabe she's born with it. Maybe it's ____.",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Adderall.&reg;"
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "The KKK."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "A good, strong gorilla."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Genuine human connection."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Foreskin."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Dead babies."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Just once, I'd like to hear you say \"Thanks, Mom. Thanks for ____.\"",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Why can't I sleep at night?",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "____ is a slippery slope that leads to ____.",
+    "gaps": 2
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Next on ESPN2: The World Series of ____.",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Catapults."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Instead of coal, Santa now gives the bad children ____.",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "What would grandma find disturbing, yet oddly charming?",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Holding down a child and farting all over him."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Me time."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "A good sniff."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "My good bra."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "My ugly face and bad personality."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "I'm going on a cleanse this week. Nothing but kale juice and ____.",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "What will always get you laid?",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "When I am President, I will create the Department of ____.",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Child beauty pageants."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "I got 99 problems but ____ ain't one.",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "An old guy who's almost dead."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "50 mg of Zoloft daily."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "What is Batman's guilty pleasure.",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "That's right, I killed ____. How, you ask? ____.",
+    "gaps": 2
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Alternative medicine is now embracing the curative powers of ____.",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Introducing X-treme Baseball! It's like baseball, but with ____!",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Coming to Broadway this season, ____: The Musical.",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Kamikaze pilots."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "The penny whistle solo from \"My Heart Will Go On.\""
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Forced sterilization."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Brought to you by Bud Light&reg;, the official Beer of ____.",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "What is George W. Bush thinking about right now?",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "The wifi password."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "The Hamburglar."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "When I am a billionaire, I shall erect a 50-foot statue to commemorate ____.",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Explaining how vaginas work."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Half-assed foreplay."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Huffing spray paint."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Being a motherfucking sorcerer."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Introducing the amazing superhero/sidekick duo! It's ____ and ____!",
+    "gaps": 2
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "If you can't be with the one you love, love ____.",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Dying."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "What's there a ton of in heaven?",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Pretending to care."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "White people like ____.",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "____. That was so metal.",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Sexual peeing."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "____ + ____ = ____."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Flesh-eating bacteria."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Vigorous jazz hands."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Next from J.K. Rowling: <i>Harry Potter and the Chamber of ____.</i>",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Alcoholism."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "During sex, I like to think about ____.",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "50% of all marriages end in ____.",
+    "gaps": 1
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Make a haiku."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "A lifetime of sadness."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "My cheating son-of-a-bitch husband."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "The past."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Waiting till marriage."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Active listening."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "It's a pity that kids these days are all getting involved with ____.",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "A saxophone solo."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Lactation."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "I'm LeBron James, and when I'm not slamming dunks, I love ____.",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Scientology."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Just saw this upsetting video! Please retweet!! #stop____",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "My fat daughter."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Lockjaw."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Having big dreams but no realistic way to achieve them."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "War! What is it good for?",
+    "gaps": 1
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "White privilege."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Pac-Man uncontrollably guzzling cum."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "When I was tripping on acid, ____ turned into ____.",
+    "gaps": 2
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "Smallpox blankets."
+  },
+  {
+    "color": "white",
+    "language": "en",
+    "text": "How far I can get my own penis up my butt."
+  },
+  {
+    "color": "black",
+    "language": "en",
+    "text": "Check me out, yo! I call this dance move \"____.\"",
+    "gaps": 1
+  }
+]
