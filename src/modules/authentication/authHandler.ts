@@ -29,10 +29,10 @@ const authHandler: AuthHandler = {
     })
   },
   async logout (req: Request, res: Response) {
-    const body: BodyWithUserName = req.body
-
     try {
-      await authService.logout(body.username)
+      if (req.username != null) {
+        await authService.logout(req.username)
+      }
     } catch (err) {
       res.status(400).send({
         message: err
