@@ -3,16 +3,11 @@ import { paramCase } from 'change-case'
 import cardService from 'modules/card/cardService'
 
 export interface RoomService {
-  createRoom: (country: string, host: string, name: string, size: number) => Promise<RoomCreateResult>
+  createRoom: (country: string, host: string, name: string, size: number) => Promise<{ _id: string, slug: string }>
   getRooms: (country: string) => Promise<Room[]>
   getRoom: (slug: string) => Promise<RoomResult>
   insertRoomChat: (chat: RoomChat) => Promise<void>
   getRoomChats: (slug: string) => Promise<RoomChat[]>
-}
-
-export interface RoomCreateResult {
-  _id: string
-  slug: string
 }
 
 export interface RoomInfo {
@@ -51,7 +46,7 @@ const roomService: RoomService = {
   },
   async getRooms (country) {
     return await global.mongoDB.collection(ROOM_COLLECTION)
-      .find({ country }).sort({ $nature: -1 }).toArray() as Room[]
+      .find({ country }).toArray() as Room[]
   },
   async getRoom (slug) {
     const blackCard = await cardService.generateCards('black', 1)
